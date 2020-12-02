@@ -1,1 +1,2 @@
-# Python-Wheel-of-Fortune
+# Python Wheel of Fortune
+Archiving assignment
